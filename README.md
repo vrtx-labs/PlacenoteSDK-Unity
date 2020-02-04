@@ -4,6 +4,8 @@ The SDK includes 4 sample scenes that you can use as starting points for your pr
 
 * Note: Placenote SDK for Unity currently supports only iOS devices (iPhone and iPad). Android support will be coming soon.
 
+* This fork was created to fix building on windows.
+
 - - -
 
 ## Using this Github repository
